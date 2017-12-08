@@ -1,2 +1,12 @@
+body {
+  background-color: tomato;
+}
 a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+  background-color: blue;
+}
+a:hover {
+  background-color: LightBlue;
 }
