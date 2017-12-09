@@ -19,3 +19,11 @@ a:hover {
   width: 100%;
   background-color: lightgreen;
 }
+
+#rightweb {
+  float: right;
+}
+
+#centerweb {
+  margin-left: 50%;
+}
